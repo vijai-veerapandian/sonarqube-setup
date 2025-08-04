@@ -19,14 +19,12 @@ This repository contains a simple Docker Compose configuration to run SonarQube 
 
 ```
 docker-compose up -d
-
 ```
 
 4. Access SonarQube in your browser at:
 
 ```
 http://<your-vm-ip>:9000
-
 ```
 ![access](./assets/2025-08-04-035216.jpg)
 
@@ -57,7 +55,6 @@ To stop and remove the containers, run:
 
 ```
 docker-compose down
-
 ```
 
 ## Notes
