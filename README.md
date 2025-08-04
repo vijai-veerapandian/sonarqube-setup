@@ -72,8 +72,6 @@ docker-compose down
 
 ---
 
-Enjoy analyzing your code with SonarQube!
+SonarQube is ready to play with analysising the code!
 ```
-
-Let me know if you want it customized further or made more detailed!
 
