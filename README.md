@@ -68,5 +68,5 @@ docker-compose down
 
 ---
 
-SonarQube is ready to play with analysising the code!
+SonarQube is ready to play with code analysis!
 
