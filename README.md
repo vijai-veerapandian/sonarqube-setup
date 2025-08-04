@@ -1,8 +1,6 @@
 
 Quick SonarQube Docker Compose setup:
 
-# SonarQube Docker Compose Setup
-
 This repository contains a simple Docker Compose configuration to run SonarQube with a PostgreSQL database.
 
 ## Prerequisites
