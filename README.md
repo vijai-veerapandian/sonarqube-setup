@@ -1,7 +1,6 @@
 
 Quick SonarQube Docker Compose setup:
 
-```markdown
 # SonarQube Docker Compose Setup
 
 This repository contains a simple Docker Compose configuration to run SonarQube with a PostgreSQL database.
@@ -19,8 +18,8 @@ This repository contains a simple Docker Compose configuration to run SonarQube 
 
 3. Start the SonarQube and PostgreSQL containers:
 
-```
 
+```
 docker-compose up -d
 
 ```
@@ -28,7 +27,6 @@ docker-compose up -d
 4. Access SonarQube in your browser at:
 
 ```
-
 http://<your-vm-ip>:9000
 
 ```
@@ -45,7 +43,6 @@ http://<your-vm-ip>:9000
 - The PostgreSQL database credentials are set in `docker-compose.yml`:
 
 ```
-
 POSTGRES_USER: sonarqube
 POSTGRES_PASSWORD: sonarqube_password
 POSTGRES_DB: sonarqube
@@ -59,7 +56,6 @@ POSTGRES_DB: sonarqube
 To stop and remove the containers, run:
 
 ```
-
 docker-compose down
 
 ```
@@ -73,5 +69,4 @@ docker-compose down
 ---
 
 SonarQube is ready to play with analysising the code!
-```
 
