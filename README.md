@@ -26,7 +26,7 @@ docker-compose up -d
 ```
 http://<your-vm-ip>:9000
 ```
-![access](./assets/2025-08-04-035216.jpg)
+![1](./assets/1.jpg)
 
 
 5. Login to SonarQube web UI with default credentials:
@@ -65,5 +65,6 @@ docker-compose down
 
 ---
 
-SonarQube is ready to play with code analysis!
+![2](./assets/2.jpg)
 
+SonarQube is ready to play with code analysis!
